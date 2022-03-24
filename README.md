@@ -72,7 +72,7 @@ Based on the above dynamic identification, the monitoring of the structural heal
 ## Contributors and acknowledgments
 This project was conducted at the Department of Mechanical Engineering and Aeronautics at the University of Patras, Greece in 2020 by Ioannis Dadiotis as part of the [Dynamic identification and SHM] course by Prof. S. Fassois and Ass. professor J. Sakellariou of the [SMSA lab].
 
-<img src="https://user-images.githubusercontent.com/75118133/159381029-ff271c1e-f995-42a1-a11a-2c50890c7e5e.png" width="100" />
+<img src="https://user-images.githubusercontent.com/75118133/159381029-ff271c1e-f995-42a1-a11a-2c50890c7e5e.png" width="150" />
 
 [SMSA lab]: https://sites.google.com/g.upatras.gr/smsa-lab/home
 [Dynamic identification and SHM]: https://www.mead.upatras.gr/en/courses/domiki-akeraiotita-kataskeuwn/
