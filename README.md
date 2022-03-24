@@ -67,7 +67,7 @@ Based on the above dynamic identification, the monitoring of the structural heal
 
 ## Running the code
 
-* Run the matlab file `src/SI_FDI_COURSE_giannis.m`. 
+* Run the matlab file `src/SI_FDI_COURSE_giannis.m`. The code was developed in Matlab R2019.
 
 ## Contributors and acknowledgments
 This project was conducted at the Department of Mechanical Engineering and Aeronautics at the University of Patras, Greece in 2020 by Ioannis Dadiotis as part of the [Dynamic identification and SHM] course by Prof. S. Fassois and Ass. professor J. Sakellariou of the [SMSA lab]. The lab is focused on high-performance and intelligent Stochastical MEchanical, Aeronautical, Industrial and related systems that operate under uncertainty.
