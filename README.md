@@ -1,5 +1,5 @@
 # statistical_shm
-Dynamic identification and structural health monitoring of real structures using statistical time series analysis. Project as part of the taught [Dynamic identification and SHM] at the University of Patras, Greece.
+Dynamic identification and structural health monitoring of real structures using statistical time series analysis. Project as part of the 2020 taught course [Dynamic identification and SHM] at the University of Patras, Greece.
 
 ## The systems
 
@@ -70,7 +70,7 @@ Based on the above dynamic identification, the monitoring of the structural heal
 * Run matlab file
 
 ## Contributors and acknowledgments
-This project was conducted at the Department of Mechanical Engineering and Aeronautics at the University of Patras, Greece in 2020 by Ioannis Dadiotis as part of the [Dynamic identification and SHM] course by Prof. S. Fassois and Ass. professor J. Sakellariou of the [SMSA lab].
+This project was conducted at the Department of Mechanical Engineering and Aeronautics at the University of Patras, Greece in 2020 by Ioannis Dadiotis as part of the [Dynamic identification and SHM] course by Prof. S. Fassois and Ass. professor J. Sakellariou. The [SMSA lab] is focused on high-performance and intelligent Stochastical MEchanical, Aeronautical, Industrial and related systems that operate under uncertainty.
 
 <img src="https://user-images.githubusercontent.com/75118133/159381029-ff271c1e-f995-42a1-a11a-2c50890c7e5e.png" width="150" />
 
