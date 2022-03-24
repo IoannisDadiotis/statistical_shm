@@ -19,6 +19,7 @@ The goals of the project are:
   <img width="10" />
   <img src="https://user-images.githubusercontent.com/75118133/159879791-7119f632-c261-45e9-8ed1-4442d611095e.png" width="300" /> 
 </p>
+(photos from [SMSA lab])
 
 ## Dynamic identification
 Dynamic identification of the systems is **solely data-based**. The main stages are:
@@ -58,6 +59,12 @@ Based on the above dynamic identification, the monitoring of the structural heal
 
 :heavy_check_mark: SHM of the suspension system under varying conditions using the [multiple-models methods].
 
+  <img src="https://user-images.githubusercontent.com/75118133/159891843-17910a40-caf9-4b96-8739-840f5364faa3.png" width="250" />
+  (photo from [multiple-models methods] paper.)
+
+
+<img src="https://user-images.githubusercontent.com/75118133/159892321-d054d1f7-9fba-4ff5-b55b-8a50e4d48c21.png" width="400" />
+
 ## Running the code
 
 * Run matlab file
@@ -65,7 +72,7 @@ Based on the above dynamic identification, the monitoring of the structural heal
 ## Contributors and acknowledgments
 This project was conducted at the Department of Mechanical Engineering and Aeronautics at the University of Patras, Greece in 2020 by Ioannis Dadiotis as part of the [Dynamic identification and SHM] course by Prof. S. Fassois and Ass. professor J. Sakellariou of the [SMSA lab].
 
-![image](https://user-images.githubusercontent.com/75118133/159381029-ff271c1e-f995-42a1-a11a-2c50890c7e5e.png)
+<img src="https://user-images.githubusercontent.com/75118133/159381029-ff271c1e-f995-42a1-a11a-2c50890c7e5e.png" width="100" />
 
 [SMSA lab]: https://sites.google.com/g.upatras.gr/smsa-lab/home
 [Dynamic identification and SHM]: https://www.mead.upatras.gr/en/courses/domiki-akeraiotita-kataskeuwn/
