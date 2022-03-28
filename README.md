@@ -57,10 +57,10 @@ Based on the above dynamic identification, the monitoring of the structural heal
 
 :heavy_check_mark: Identification of the type of fault for the decided faulty signals using the same above methods.
 
-:heavy_check_mark: SHM of the suspension system under varying conditions using the [multiple-models methods].
+:heavy_check_mark: SHM of the suspension system under varying conditions using the [multiple-models method].
 
   <img src="https://user-images.githubusercontent.com/75118133/159891843-17910a40-caf9-4b96-8739-840f5364faa3.png" width="250" />
-  (photo from [multiple-models methods] paper.)
+  (photo from the above related paper.)
 
 
 <img src="https://user-images.githubusercontent.com/75118133/159892321-d054d1f7-9fba-4ff5-b55b-8a50e4d48c21.png" width="400" />
@@ -70,10 +70,10 @@ Based on the above dynamic identification, the monitoring of the structural heal
 * Run the matlab file `src/SI_FDI_COURSE_giannis.m`. The code was developed in Matlab R2019.
 
 ## Contributors and acknowledgments
-This project was conducted at the Department of Mechanical Engineering and Aeronautics at the University of Patras, Greece in 2020 by Ioannis Dadiotis as part of the [Dynamic identification and SHM] course by Prof. S. Fassois and Ass. professor J. Sakellariou of the [SMSA lab]. The lab is focused on high-performance and intelligent Stochastical MEchanical, Aeronautical, Industrial and related systems that operate under uncertainty.
+This project was conducted at the Department of Mechanical Engineering and Aeronautics at the University of Patras, Greece in 2020 by Ioannis Dadiotis as part of the [Dynamic identification and SHM] course by Prof. S. Fassois and Ass. professor J. Sakellariou of the [SMSA lab]. The lab is focused on high-performance and intelligent Stochastical Mechanical, Aeronautical, Industrial and related systems that operate under uncertainty.
 
 <img src="https://user-images.githubusercontent.com/75118133/159381029-ff271c1e-f995-42a1-a11a-2c50890c7e5e.png" width="150" />
 
 [SMSA lab]: https://sites.google.com/g.upatras.gr/smsa-lab/home
 [Dynamic identification and SHM]: https://www.mead.upatras.gr/en/courses/domiki-akeraiotita-kataskeuwn/
-[multiple-models methods]: https://ui.adsabs.harvard.edu/abs/2018MSSP..111..149V/abstract
+[multiple-models method]: https://ui.adsabs.harvard.edu/abs/2018MSSP..111..149V/abstract
