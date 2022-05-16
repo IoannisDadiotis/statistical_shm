@@ -3,7 +3,7 @@ Dynamic identification and structural health monitoring of real structures using
 
 ## The systems
 
-The systems analyzed are a real truss in the lab and the suspension system of a real train. The data from the truss (sampled at 256 Hz) are included in the `DATA_1047304.mat` and include two pairs of excitation & respose signals of the structure in healthy condition (variable `Signals`) and four pairs of excitation & respose signals from the structure in faulty condition (varialble `Faults`) (two different faulty conditions, two pairs of signals for each of them). Finally four pairs of excitation & response signals were taken from the structure in unknown condition.
+The systems analyzed are a **real truss** in the lab and the **suspension system of a real train**. The data from the truss (sampled at 256 Hz) are included in the `DATA_1047304.mat` and include two pairs of excitation & respose signals of the structure in healthy condition (variable `Signals`) and four pairs of excitation & respose signals from the structure in faulty condition (varialble `Faults`) (two different faulty conditions, two pairs of signals for each of them). Finally four pairs of excitation & response signals were taken from the structure in unknown condition.
 
 The data from the train suspension system (sampled at 980 Hz) include response-only signals of the suspension in 3 different healthy condition (variable `Baseline_signals`, 10 colums for each condition). Response-only signals at an unknown condition healthy or damaged are provided (variable `Inspection_Unknown_Signals`).
 
