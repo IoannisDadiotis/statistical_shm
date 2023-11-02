@@ -69,6 +69,16 @@ Based on the above dynamic identification, the monitoring of the structural heal
 
 * Run the matlab file `src/SI_FDI_COURSE_giannis.m`. The code was developed in Matlab R2019.
 
+## Citing
+If you use this code, you can cite it as:
+```
+@misc{statistical_shm,
+   title = {{statistical_shm}:  Project for dynamic identification and structural health monitoring of real structures using data-based statistical time series analysis},
+   note = {[Online]. Available: \url{https://github.com/IoannisDadiotis/statistical_shm}},
+   author = {Ioannis Dadiotis and others}
+}
+```
+
 ## Contributors and acknowledgments
 This project was conducted at the Department of Mechanical Engineering and Aeronautics at the University of Patras, Greece in 2020 by Ioannis Dadiotis as part of the [Dynamic identification and SHM] course by Prof. S. Fassois and Ass. professor J. Sakellariou of the [SMSA lab]. The lab is focused on high-performance and intelligent Stochastical Mechanical, Aeronautical, Industrial and related systems that operate under uncertainty.
 
